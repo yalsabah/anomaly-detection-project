@@ -1,4 +1,4 @@
-# Yousif Alsabah
+# Sayali Gurav
 # Implements Isolation Forest, LSTM, and Autoencoder for fraud detection.
 
 import numpy as np
