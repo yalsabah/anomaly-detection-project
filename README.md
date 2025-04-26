@@ -7,7 +7,7 @@ The models are evaluated using **Precision**, **Recall**, and **F1-Score**, with
 ---
 
 ## 🏗️ Project Structure
-.
+```bash
 ├── data/                # (Git-ignored) Folder for dataset files
 ├── models/              # Saved models (Isolation Forest, Autoencoder, LSTM Autoencoder)
 ├── notebooks/           # Jupyter notebooks for visualization and analysis
@@ -17,7 +17,7 @@ The models are evaluated using **Precision**, **Recall**, and **F1-Score**, with
 │   └── train_and_tune.py # Model training, hyperparameter tuning, evaluation
 ├── README.md
 └── requirements.txt     # Python dependencies
-
+```
 ---
 
 ## ⚙️ How to Run the Project
